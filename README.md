@@ -6,13 +6,13 @@ I am a self-taught junior Frontend developer. My tech stack includes:
 
 - Core languages: **JavaScript ES2023, TypeScript (beginner level)**
 - Core libs: **[React](https://react.dev/), [Redux Toolkit](https://redux-toolkit.js.org/), [React Router 5/6](https://reactrouter.com/), [Axios](https://axios-http.com/)**
-- Styles: **[SCSS](https://sass-lang.com/), [CSS modules](https://github.com/css-modules/css-modules), [Tailwind CSS](https://tailwindcss.com/)**
+- Styles: **[Tailwind CSS](https://tailwindcss.com/), [SCSS](https://sass-lang.com/), [CSS modules](https://github.com/css-modules/css-modules)**
 - Forms: **[React Hook Form](https://react-hook-form.com/), [Zod](https://zod.dev/)**
-- UI Libs: **[MUI](https://mui.com/), [shadcn](https://ui.shadcn.com/)**
+- UI Libs: **[shadcn](https://ui.shadcn.com/), [MUI](https://mui.com/)**
 - Internationalization: **[i18next](https://www.i18next.com/)**
 - Bundlers: **[Vite](https://vitejs.dev/), [webpack](https://webpack.js.org/), [CRA](https://create-react-app.dev/)**
 - Testing: **[Jest](https://jestjs.io/), [Storybook](https://storybook.js.org/)**
-- CI/CD: **[Github workflows](https://docs.github.com/en/actions/using-workflows/about-workflows), [Vercel](https://vercel.com/)**
+- CI/CD: **[Vercel](https://vercel.com/), [Github workflows](https://docs.github.com/en/actions/using-workflows/about-workflows)**
 
 ## My Projects
 
