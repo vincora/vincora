@@ -86,3 +86,4 @@ I am a self-taught junior Frontend developer. My tech stack includes:
 
 - [Exercism](https://exercism.org/profiles/vincora)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/vincora)
+
