@@ -31,7 +31,7 @@ Search for books using the Google Books API.
 ### Deadline tracker ⏳
 
 Tracks one or two deadlines optionally. Helps monitoring parcel shipments.
-- **Technologies:** React, React Hook Form, MUI, SCSS, Jest, GitHub Pages (CI/CD)
+- **Technologies:** React, React Hook Form, MUI, SCSS, GitHub Pages (CI/CD)
 - [Sources](https://github.com/vincora/terms-tracker) / [Public URL](https://deadline-tracker-2436rmhll-vincora.vercel.app/)
 
 ### Exchange rates and converter 💱
