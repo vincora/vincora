@@ -25,7 +25,7 @@ Helps users find the best price offers in a product category.
 ### Google Books Search 📚
 
 Search for books using the Google Books API.
-- **Technologies:** React, Redux Toolkit, React Router, Axios, Tailwind CSS, Jest, Vercel (CI/CD)
+- **Technologies:** React, Redux Toolkit, React Router, React Hook Form, Tailwind CSS, Vercel (CI/CD)
 - [Sources](https://github.com/vincora/book-search-app) / [Public URL](https://book-search-app-phi.vercel.app/)
 
 ### Deadline tracker ⏳
