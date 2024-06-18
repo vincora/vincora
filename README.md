@@ -19,7 +19,7 @@ I am a self-taught junior Frontend developer. My tech stack includes:
 ### Shopping assistant 🛒
 
 Helps users find the best price offers in a product category.
-- **Technologies:** React, Redux Toolkit, React Router, React Hook Form, Tailwind CSS, i18next, Zod, Vercel (CI/CD)
+- **Technologies:** React, Redux Toolkit, React Router, React Hook Form, Tailwind CSS, shadcn, i18next, Zod, Vercel (CI/CD)
 - [Sources](https://github.com/vincora/shopping-assistant) / [Public URL](https://shopping-cart-11omnkxt7-vincoras-projects.vercel.app/)
 
 ### Google Books Search 📚
