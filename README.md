@@ -37,7 +37,7 @@ Tracks one or two deadlines optionally. Helps monitoring parcel shipments.
 ### Exchange rates and converter 💱
 
 Exchange rates page and currency conversion.
-- **Technologies:** React, React Router, React Hook Form, Tailwind CSS, Zod, Vitest, Vercel (CI/CD)
+- **Technologies:** React, React Router, React Hook Form, shadcn , Zod, Vitest, Vercel (CI/CD)
 - [Sources](https://github.com/vincora/vite-project) / [Public URL](https://vite-exchange-rates-and-converter-al0eln6qc-vincora.vercel.app/)
 
 ## Projects focused on practicing layout skills
